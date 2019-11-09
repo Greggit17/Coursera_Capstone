@@ -1,11 +1,3 @@
----
-title: Battle of the Locations
-category: [blog, Data Science]
-tags: [machine learning]
-author_profile: true 
----
-
-
 The consumer demand for child care, early education, and back-up care has grown in recent years in concert with the growing number of working family households. Many families continue to migrate to the suburbs of large metro areas given their proximity to work and consequently there's a significant demand for surrounding child daycare services. Determining the appropriate geography for daycare center expansion is a challenge that requires considering the landscape of today's household and its respective demographics as well as the competitive saturation in these areas.
 
 ## Business Problem: ##
